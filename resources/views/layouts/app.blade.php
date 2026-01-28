@@ -24,7 +24,7 @@
                     <img src="{{ asset('images/programa-logo.png') }}" alt="Favicon" height="50">
                 </a>
                 <div class="ms-auto">
-                    <a href="https://www.sistemastg.uts.edu.co/tg" target="_blank" class="btn btn-uts-green px-3">
+                    <a href="https://sistemastg.uts.edu.co/tg" target="_blank" class="btn btn-uts-green px-3">
                         <i class="bi bi-person-circle me-2"></i>Sistemas TG
                     </a>
                 </div>
